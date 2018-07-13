@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MyProject"
+    "\\myproj\\Controllers",
+    "\\myproj\\Models"
   ],
-  "SelectedNode": "\\MyProject",
+  "SelectedNode": "\\myproj",
   "PreviewInSolutionExplorer": false
 }
